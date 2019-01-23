@@ -1,0 +1,9 @@
+[package]
+name = "pl_lab_4"
+version = "0.1.0"
+authors = ["Дмитрий"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+rand = "0.6"
